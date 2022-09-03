@@ -22,7 +22,8 @@
   <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <script src="http://localhost/19/assets/js/jquery.js"></script>
+  <script src="./assets//js/jquery.js"></script>
+  <!-- <script src="http://localhost/19/assets/js/jquery.js"></script> -->
   <link rel="stylesheet" type="text/css" href="_preload/vendor/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="_preload/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="_preload/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">

@@ -23,9 +23,9 @@
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="http://localhost/19/assets/vendor/aos/aos.css" rel="stylesheet">
-  <script src="https://localhost/19/assets/js/jquery.js"></script>
-  <link href="https://localhost/19/assets/css/style.css" rel="stylesheet">
+  <link href="./assets/vendor/aos/aos.css" rel="stylesheet">
+  <script src="./assets/js/jquery.js"></script>
+  <link href="./assets/css/style.css" rel="stylesheet">
 </head>
 <body>
     <script>
